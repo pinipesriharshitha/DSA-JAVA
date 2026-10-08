@@ -6,11 +6,11 @@ My journey learning Data Structures and Algorithms in Java.
 
 ### Arrays
 - ✅Reverse an array
+- ✅ Search an element
 
 ### Topics to learn
 - ⬜ Find largest element
 - ⬜ Find second largest element
-- ⬜Search an element
 - ⬜ Count occurrences of an element
 
 - ⬜ Find smallest element
