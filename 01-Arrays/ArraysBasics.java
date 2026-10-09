@@ -70,7 +70,7 @@ public class main{
                 
         }
 }
-
+# count of occurences
 import java.util.*;
  public class Main{
      public static void  main(String[]args){
@@ -92,3 +92,24 @@ import java.util.*;
          System.out.println("the count is :" + count);
      }
  }
+# sum of elements in array
+import java.util.*;
+ public class Main{
+     public static void  main(String[]args){
+         Scanner sc = new Scanner(System.in);
+         System.out.println("Enter the size of array :");
+         int n = sc.nextInt(); 
+         int arr[] = new int[n];
+         
+         for(int i=0;i<n;i++){
+             System.out.println("Enter the element in array : ");
+             arr[i] = sc.nextInt();
+         }
+         int sum=0;
+         for(int i =0;i<n;i++){
+             sum += arr[i];
+         }
+         System.out.println("the sum of array elements is:" + sum);
+     }
+ }
+
