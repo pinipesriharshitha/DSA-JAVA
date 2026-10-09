@@ -9,6 +9,7 @@ My journey learning Data Structures and Algorithms in Java.
 - ✅ Search an element
 - ✅Find the minimum and maximum value
 - ✅ Count occurrences of an element
+- ✅ Sum of elements in array
 
 ### Topics to learn
 - ⬜ Find second largest element
