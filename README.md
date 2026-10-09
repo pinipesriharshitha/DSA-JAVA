@@ -7,13 +7,12 @@ My journey learning Data Structures and Algorithms in Java.
 ### Arrays
 - ✅Reverse an array
 - ✅ Search an element
+- ✅Find the minimum and maximum value
 
 ### Topics to learn
-- ⬜ Find largest element
 - ⬜ Find second largest element
 - ⬜ Count occurrences of an element
 
-- ⬜ Find smallest element
 - ⬜ Two pointers
 - ⬜ Sliding window
 - ⬜ Prefix sum
