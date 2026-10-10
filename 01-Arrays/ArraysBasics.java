@@ -112,4 +112,23 @@ import java.util.*;
          System.out.println("the sum of array elements is:" + sum);
      }
  }
+# Print alternate elements
 
+import java.util.*;
+ public class Main{
+     public static void  main(String[]args){
+         Scanner sc = new Scanner(System.in);
+         System.out.println("Enter the size of array :");
+         int n = sc.nextInt(); 
+         int arr[] = new int[n];
+         
+         for(int i=0;i<n;i++){
+             System.out.println("Enter the element in array : ");
+             arr[i] = sc.nextInt();
+         }
+         System.out.println("the alternative elements are :");
+         for(int i =0;i<n;i+=2){
+             System.out.println(arr[i]);
+         }
+     }
+ }
