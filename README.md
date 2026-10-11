@@ -12,7 +12,7 @@ My journey learning Data Structures and Algorithms in Java.
 - ✅ Sum of elements in array
 - ✅ Print alternate elements
 - ✅ Find second largest element
-
+- ✅find largest and smallest element 
 ### Topics to learn
 
 - ⬜ Two pointers
