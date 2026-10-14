@@ -13,8 +13,4 @@ My journey learning Data Structures and Algorithms in Java.
 - ✅ Print alternate elements
 - ✅ Find second largest element
 - ✅find largest and smallest element 
-### Topics to learn
-
-- ⬜ Two pointers
-- ⬜ Sliding window
-- ⬜ Prefix sum
+ #MINI PROJECT - Student marks analyser
